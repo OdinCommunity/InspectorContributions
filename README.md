@@ -14,7 +14,7 @@ This project uses:
 
 You are required to provide your own copy of Odin Inspector. **Do not under any circumstance commit Odin Inspector to this project.**
 
-All code contributed to this repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). As a reminder: the contributors and maintainers of this repository are NOT responsible for providing support for these additions to Odin, and are not responsible for any errors or issues caused by these additions. You use these contributions **at your own risk**.
+All code contributed to this repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). As a reminder: the contributors and maintainers of this repository are NOT responsible for providing support, nor are they responsible for any errors or issues caused by the inclusion or usage of this project in your Unity project. You use these contributions **at your own risk**.
 
 All contributions should:
 * Live under `Assets/Plugins/InspectorContributions/<Name of Your Contribution>`
