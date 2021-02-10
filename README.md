@@ -19,7 +19,7 @@ All code contributed to this repository is licensed under the [MIT License](http
 All contributions should:
 * Live under `Assets/Plugins/InspectorContributions/<Name of Your Contribution>`
   * This directory should include all the source files and resources needed for your contribution to operate.
-* Include a Markdown file in their directory whose name is <Name of Your Contribution>Documentation.md that documents the API and explains how to use your contribution.
+* Include a Markdown file in their directory whose name is `<Name of Your Contribution>Documentation.md` that documents the API and explains how to use your contribution.
 * Be namespaced under `OdinCommunity.InspectorContributions`
 * Include any demo code or assets under `Assets/Plugins/OdinCommunity/InspectorContributions/Demos/<Name of Your Contribution>`.
   * If your contribution is something like an attribute or custom drawer, please include a GameObject in the InspectorContributionsDemos scene that shows its functionality
