@@ -4,10 +4,15 @@ A collection of useful community contributions for Odin Inspector. Requires Odin
 # Installing
 This repository is packaged as an .unitypackage that can be included in any Unity project. 
 
-# Contributing
-This project uses Unity 2019.4.19f1 and Odin Inspector 3 and above.
+# Compatibility
+This project will attempt to maintain compatibility with any and all versions of Unity supported by the version of Odin Inspector it targets. If something is not compatible with the version of Unity you are using, please either file an issue or fix it and submit a pull request.
 
-For obvious reasons, this project does NOT include a copy of Odin Inspector. Do not under any circumstance commit Odin Inspector to this project.
+# Contributing
+This project uses:
+* Unity 2019.4.19f1
+* Odin Inspector 3+
+
+You are required to provide your own copy of Odin Inspector. **Do not under any circumstance commit Odin Inspector to this project.**
 
 All code contributed to this repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). As a reminder: the contributors and maintainers of this repository are NOT responsible for providing support for these additions to Odin, and are not responsible for any errors or issues caused by these additions. You use these contributions **at your own risk**.
 
